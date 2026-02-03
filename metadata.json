@@ -1,0 +1,7 @@
+{
+  "name": "成语绘意 - 智能成语连环画",
+  "description": "根据输入的成语，为不同年龄层用户生成精美的连环画、语音导读及深度解析。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
